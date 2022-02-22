@@ -1,5 +1,7 @@
-# python env creation and dependency installation
+# change access for setup script
 chmod 777 setup.sh
+
+# python env creation and dependency installation
 ./setup.sh
 
 # Populate Data
