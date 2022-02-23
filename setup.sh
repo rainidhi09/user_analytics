@@ -1,5 +1,4 @@
 python3 -m venv userenv
-source userenv/bin/activate
+source ./userenv/bin/activate
 
-pip install flask
-pip install pytest
+pip install -r requirement.txt
